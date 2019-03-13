@@ -1,0 +1,11 @@
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\bin\Debug\netcoreapp2.1\MiniOrm.deps.json
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\bin\Debug\netcoreapp2.1\MiniOrm.runtimeconfig.json
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\bin\Debug\netcoreapp2.1\MiniOrm.runtimeconfig.dev.json
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\bin\Debug\netcoreapp2.1\MiniOrm.dll
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\obj\Debug\netcoreapp2.1\MiniOrm.csprojAssemblyReference.cache
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\obj\Debug\netcoreapp2.1\MiniOrm.csproj.CoreCompileInputs.cache
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\obj\Debug\netcoreapp2.1\MiniOrm.AssemblyInfoInputs.cache
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\obj\Debug\netcoreapp2.1\MiniOrm.AssemblyInfo.cs
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\bin\Debug\netcoreapp2.1\MiniOrm.pdb
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\obj\Debug\netcoreapp2.1\MiniOrm.dll
+C:\Users\tunahan.yilmaz\source\repos\MiniOrm\MiniOrm\obj\Debug\netcoreapp2.1\MiniOrm.pdb
